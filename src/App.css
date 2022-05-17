@@ -1,0 +1,27 @@
+.App {
+  
+}
+body{
+  background: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.show-form{
+   background: violet;
+   min-width: 500px;
+   min-height: 150px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+form{
+  margin: 10px 30px;
+  width: 100%;
+}
+.group-btn{
+  display: flex;
+  justify-content: end;
+  margin-top: 15px;
+}
